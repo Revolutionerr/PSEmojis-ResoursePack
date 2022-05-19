@@ -563,8 +563,8 @@
 		{
 			"type": "bitmap",
 			"file": "minecraft:font/cc.png",
-			"ascent": 112,
-			"height": 112,
+			"ascent": 168,
+			"height": 168,
 			"chars": ["\u114F"]
 		},
 		{
